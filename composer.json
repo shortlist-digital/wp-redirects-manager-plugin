@@ -1,5 +1,5 @@
 {
-    "name": "shortlist-digital/wp-redirects-manager-plugin",
+    "name": "shortlist-digital/wp-redirects-manager-role-plugin",
     "description": "A plugin to add the role to enable editors to add redirect rules",
     "type": "wordpress-plugin",
     "license": "MIT",
